@@ -10,8 +10,10 @@ description: >
   subject lines, body copy, and CTA. Designed for solo business owners who know they should
   email their list but stare at a blank screen every week. NOT for setting up email
   platforms, designing templates, building automations, or writing sales pages."
-version: 1.0.0
+version: 2.0.0
 ---
+
+THIS IS UPDATED NOW
 
 # Weekly Newsletter Drafting
 
