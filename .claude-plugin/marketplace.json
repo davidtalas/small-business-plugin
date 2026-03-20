@@ -1,0 +1,17 @@
+{
+  "name": "small-business-plugin",
+  "owner": {
+    "name": "Dave Talas",
+    "email": "dave@paladin.cc"
+  },
+  "metadata": {
+    "description": "Claude Code skills for solopreneurs and small business owners"
+  },
+  "plugins": [
+    {
+      "name": "small-business-plugin",
+      "source": "./",
+      "description": "A growing collection of Claude Code skills for solopreneurs and small business owners — content creation, email marketing, client management, sales, operations, AI guides, and more."
+    }
+  ]
+}
