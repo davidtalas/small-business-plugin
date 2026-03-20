@@ -1,0 +1,22 @@
+{
+  "name": "small-business-plugin",
+  "version": "0.1.0",
+  "description": "Claude Code skills for solopreneurs and small business owners. Content creation, email marketing, client management, sales, operations, AI capability guides, and more.",
+  "author": {
+    "name": "Dave Talas",
+    "url": "https://paladin.cc"
+  },
+  "homepage": "https://paladin.cc",
+  "repository": "https://github.com/davidtalas/small-business-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "solopreneur",
+    "small-business",
+    "content-creation",
+    "email-marketing",
+    "client-management",
+    "sales",
+    "operations",
+    "ai-guides"
+  ]
+}
