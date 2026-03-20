@@ -1,6 +1,6 @@
 # Small Business Plugin for Claude Code
 
-111 skills for solopreneurs and small business owners — content creation, email marketing, client management, sales, operations, AI capability guides, and more.
+A growing collection of Claude Code skills built for solopreneurs and small business owners — covering content creation, email marketing, client management, sales, operations, AI guides, and more.
 
 Built by [Dave Talas](https://paladin.cc) for The Paladin Guild community.
 
